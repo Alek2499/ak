@@ -9,4 +9,13 @@ import PrivateRoute from './PrivateRoute';
 import AuthWrapper from './AuthWrapper';
 
 
-export {Home, Products, SingleProduct, AuthWrapper,About, Cart, Error,Checkout,PrivateRoute};
+export {
+    Home, 
+    Products, 
+    SingleProduct, 
+    AuthWrapper,
+    About, 
+    Cart, 
+    Error,
+    Checkout,
+    PrivateRoute};

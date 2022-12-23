@@ -17,13 +17,6 @@ const Hero = () => {
       Arcu cursus vitae congue mauris rhoncus aenean vel elit. Maecenas pharetra convallis posuere morbi leo urna molestie at. 
       Lobortis feugiat vivamus at augue eget arcu dictum. Ornare quam viverra orci sagittis eu. Pulvinar pellentesque habitant morbi tristique senectus et.
       Purus faucibus ornare suspendisse sed nisi. Ipsum dolor sit amet consectetur adipiscing elit duis. Sit amet risus nullam eget felis eget nunc lobortis mattis. 
-      Viverra nam libero justo laoreet sit amet cursus.
-      Tortor dignissim convallis aenean et tortor at risus viverra adipiscing. 
-      Suspendisse faucibus interdum posuere lorem. Odio aenean sed adipiscing diam donec adipiscing tristique risus. 
-      Proin sagittis nisl rhoncus mattis rhoncus. Sem et tortor consequat id porta. Maecenas sed enim ut sem. Quis blandit turpis cursus in. Vitae tempus quam pellentesque nec nam.
-      Diam quis enim lobortis scelerisque fermentum dui faucibus in.
-      Ultricies integer quis auctor elit sed. 
-      Mauris sit amet massa vitae tortor condimentum lacinia quis.
       </p>
       <Link to='/products' className='btn hero-btn'>
         shop now
@@ -31,7 +24,7 @@ const Hero = () => {
     </article>
     <article className='img-container'>
       <img src={heroBcg} alt='nice table' className='main-img'/>
-      <img src={heroBcg} alt='person working' className='accent-img'/>
+      <img src={heroBcg2} alt='person working' className='accent-img'/>
     </article>
   </Wrapper>
 }

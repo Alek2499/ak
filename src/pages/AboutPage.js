@@ -21,9 +21,7 @@ const AboutPage = () => {
             dolore, obcaecati incidunt sequi blanditiis est exercitationem
             molestiae delectus saepe odio eligendi modi porro eaque in libero
             minus unde sapiente consectetur architecto. Ullam rerum, nemo iste
-            ex, eaque perspiciatis nisi, eum totam velit saepe sed quos
-            similique amet. Ex, voluptate accusamus nesciunt totam vitae esse
-            iste.
+            ex,
           </p>
         </article>
       </Wrapper>

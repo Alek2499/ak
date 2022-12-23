@@ -5,8 +5,6 @@ import styled from 'styled-components'
 import Error from './Error'
 import Loading from './Loading'
 import Product from './Product'
-import { GET_PRODUCTS_ERROR } from '../actions'
-import { renderIntoDocument } from 'react-dom/test-utils'
 
 const FeaturedProducts = () => {
   const {products_loading:loading,products_error:error,
